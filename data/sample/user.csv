@@ -1,0 +1,17 @@
+UserID,Name,Email,Faculty,Role,Password,First Login
+YCHERN,CHERN ,YCHERN@e.ntu.edu.sg;,SCSE,student,password,TRUE
+KOH1,KOH ,KOH1@e.ntu.edu.sg;,ADM,student,password,TRUE
+BR015,BRANDON ,BR015@e.ntu.edu.sg;,EEE,student,password,TRUE
+CT113,CALVIN ,CT113@e.ntu.edu.sg;,SCSE,student,password,TRUE
+YCN019,CHAN,YCN019@e.ntu.edu.sg;,NBS,student,password,FALSE
+DL007,DENISE,DL007@e.ntu.edu.sg;,SCSE,student,password,TRUE
+DON84,DONG,DON84@e.ntu.edu.sg;,ADM,student,password,TRUE
+ELI34,ERNEST,ELI34@e.ntu.edu.sg;,EEE,student,password,TRUE
+LE51,LEE ,LE51@e.ntu.edu.sg;,SCSE,student,password,TRUE
+SL22,LIU ,SL22@e.ntu.edu.sg;,NBS,student,password,FALSE
+AKY013,RAWAL,AKY013@e.ntu.edu.sg;,SSS,student,password,TRUE
+HUKUMAR,Madhukumar,HUKUMAR@NTU.EDU.SG,SCSE,staff,password,TRUE
+OURIN,Alexei ,OURIN@ntu.edu.sg,ADM,staff,password,TRUE
+UPAM,Chattopadhyay,UPAM@NTU.EDU.SG,EEE,staff,password,TRUE
+ANWIT,Datta,ANWIT@NTU.EDU.SG,SCSE,staff,password,TRUE
+ARVI,Arvind ,ARVI@NTU.EDU.SG,NBS,staff,password,FALSE
